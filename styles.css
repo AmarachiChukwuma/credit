@@ -4,7 +4,7 @@ body{
     /* scroll-behavior: auto; */
 }
 .home-container{
-    width: 20px;
+    width: 30px;
     height: 100vh;
     background: url(bg-main-desktop.png); 
 }
@@ -33,7 +33,7 @@ body{
 .container-mm .image{
     position: absolute;
     float: right;
-    right: 680px;
+    right: 600px;
     margin-top: 5px;
 
 }
