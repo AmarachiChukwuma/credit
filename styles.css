@@ -33,7 +33,7 @@ body{
 .container-mm .image{
     position: absolute;
     float: right;
-    right: 700px;
+    right: 800px;
     margin-top: 5px;
 
 }
@@ -41,7 +41,7 @@ body{
 .container-mm .image2{
     position: absolute;
     float: right;
-    right: 600px;
+    right: 680px;
     margin-top: 70%;
     margin-bottom: 8px;
 }
