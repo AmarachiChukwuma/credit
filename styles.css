@@ -48,8 +48,8 @@ body{
 
 .container-mm form{
     border-radius: 5px;
-    padding: 5px;
-    width: 200px;
+    padding: 8px;
+    width: 300px;
     margin-top: 5rem;
 }
 .container-mm form .inputBox{
