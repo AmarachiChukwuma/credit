@@ -50,6 +50,7 @@ body{
     border-radius: 5px;
 /*     padding: 10px; */
     width: 400px;
+    margin-left: 5px;
     margin-top: 5rem;
 }
 .container-mm form .inputBox{
