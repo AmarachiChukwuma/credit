@@ -58,12 +58,12 @@ body{
 .container-mm form .inputBox span{
     display: block;
     color: black;
-    padding-bottom: 5px;
+    padding-bottom: 4px;
 }
 .container-mm form .inputBox input,
 .container-mm form .inputBox select{
     width: 100%;
-    padding: 10px;
+    padding: 5px;
     border-radius: 10px;
     border: 1px solid rgba(0, 0, 0, .3);
     color: black;
