@@ -4,7 +4,7 @@ body{
     /* scroll-behavior: auto; */
 }
 .home-container{
-    width: 20vw;
+    width: 20px;
     height: 100vh;
     background: url(bg-main-desktop.png); 
 }
